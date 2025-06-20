@@ -1,49 +1,63 @@
-<h4 align="left">¡Hola, soy Kendall! 👋<br>Soy un desarrollador de softwar. Me interesa seguir aprendiendo y crecer en el campo de la tecnología, siempre dispuesto a colaborar en nuevos proyectos.</h4>
+<h1 align="center"><b>Hi , I'm Kendall Cordero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="kiwi bird" src= "https://media.tenor.com/I-hCjdb41AIAAAAi/cute-funny.gif" />
 
-###
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjU5OTE3MXJ4aDB4NHMyenc5czNrcXpsdjhsN3hwZngxODl4cmM1YyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/ZXqqn2VjklnHPFhtVp/giphy.gif" width="30px">&nbsp;***About me***
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KendallCa05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=false" height="160" alt="languages graph"  />
+I am a Software Engineering student, currently halfway through my degree. I am passionate about technology and always looking to expand my knowledge. I am currently focusing on backend development and data analysis.
+- 🌱 I’m currently learning ...
+  - PowerBi
+  - Pandas
+    
+I am excited to **collaborate on all kinds of projects**, and I am always looking for opportunities to learn and improve. I believe that teamwork is key to success, and I am eager to contribute my skills and knowledge.
+
+Outside of technology, I have other interests that motivate me to be more creative and maintain a healthy balance. 🎵 I love listening to music, 🎮 playing video games, and 🏃 running.
+
+I am open to learning more about **data analysis**, **backend development**, and **emerging technologies**. Always ready for new challenges!
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+
+</span>
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+
+
+</span>
+
+## Contact Me
+
+<a href="mailto:kcordero0511@gmail.com?subject=Contacto desde GitHub&body=Escribe tu mensaje aquí">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="www.linkedin.com/in/kendallca" >
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://wa.me/86312971?text=Escribe%20aquí%20tu%20mensaje" >
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=KendallCa05&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=KendallCa05&theme=material-palenight)](https://github.com/valentinawerle)
 </div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/fd/cf/32/fdcf32332d69046db49c90bd76ae6bb1.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KendallCa05/KendallCa05/output/snake.svg" alt="Snake animation" />
-
-###
