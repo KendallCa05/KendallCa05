@@ -48,7 +48,7 @@ I am open to learning more about **data analysis**, **backend development**, and
 <a href="mailto:kcordero0511@gmail.com?subject=Contacto desde GitHub">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="www.linkedin.com/in/kendallca" >
+<a href="www.linkedin.com/in/kendallca](https://www.linkedin.com/in/kendallca?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://wa.me/86312971?" >
