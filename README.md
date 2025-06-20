@@ -45,13 +45,13 @@ I am open to learning more about **data analysis**, **backend development**, and
 
 ## Contact Me
 
-<a href="mailto:kcordero0511@gmail.com?subject=Contacto desde GitHub&body=Escribe tu mensaje aquí">
+<a href="mailto:kcordero0511@gmail.com?subject=Contacto desde GitHub">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="www.linkedin.com/in/kendallca" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://wa.me/86312971?text=Escribe%20aquí%20tu%20mensaje" >
+<a href="https://wa.me/86312971?" >
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
