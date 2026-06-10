@@ -5,9 +5,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjU5OTE3MXJ4aDB4NHMyenc5czNrcXpsdjhsN3hwZngxODl4cmM1YyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/ZXqqn2VjklnHPFhtVp/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Software Engineering student, currently halfway through my degree. I am passionate about technology and always looking to expand my knowledge. I am currently focusing on backend development and data analysis.
-- 🌱 I’m currently learning ...
-  - PowerBi
-  - Pandas
+
     
 I am excited to **collaborate on all kinds of projects**, and I am always looking for opportunities to learn and improve. I believe that teamwork is key to success, and I am eager to contribute my skills and knowledge.
 
